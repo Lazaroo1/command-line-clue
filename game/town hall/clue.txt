@@ -1,0 +1,5 @@
+Investigation Update:
+
+The dust on the floor shows a clear path heading to the offices.
+
+Remember: Use 'cd "offices"' to follow this lead.

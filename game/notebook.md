@@ -1,6 +1,6 @@
 # Detective's Notebook
-Pista inicial:
-no habian personas presentes en donde ocurrio 
+Pista 1:no habian personas presentes en donde ocurrio
+Pista 2:El postman fue visto por última vez cerca del living room, es el sospechoso principal
 ## Suspects
 - [ ] The Artist
 - [ ] The Librarian

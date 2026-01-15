@@ -1,5 +1,6 @@
 # Detective's Notebook
-
+Pista inicial:
+no habian personas presentes en donde ocurrio 
 ## Suspects
 - [ ] The Artist
 - [ ] The Librarian

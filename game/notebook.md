@@ -14,5 +14,5 @@ Pista 3: el lugar del crimen fue en el science lab
 
 ## Notes
 *Use this space to record your findings and deductions...*
-
+- El arma utilizada fue un Kitchen Knife, fue encontrado en los classrooms de la escuela
 Location of the crime is still unknown - the room must have been empty when it happened...
